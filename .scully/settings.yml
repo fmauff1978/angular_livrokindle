@@ -1,0 +1,11 @@
+identifier: l7n78e80454fg5ya
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: angular_livrokindle
+homeFolder: C:\Users\f3163049\Documents\angular_livrokindle
+distFolder: dist/angular_livrokindle
+outDir: C:\Users\f3163049\Documents\angular_livrokindle\dist\static
+handle404: ''
+allowErrorCollect: false
